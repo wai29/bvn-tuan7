@@ -1,2 +1,2 @@
 # bvn-tuan7
-bvn tuan 7
+Phần mềm quản lý khách sạn
